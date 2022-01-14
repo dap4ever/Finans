@@ -1,0 +1,17 @@
+.navbar-brand img {
+  width: 142px;
+}
+
+#home {
+  background-color: #ffc107;
+  color: #fff;
+}
+
+.navbar-toggler {
+  cursor: pointer;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom:  1px solid #e5e5e5;
+}
